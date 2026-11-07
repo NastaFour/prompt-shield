@@ -1,0 +1,18 @@
+# >>> skillsGV install (generated - do not edit) >>>
+.agents/skills/
+.claude/skills/
+.codeium/windsurf/skills/
+.codex/skills/
+.copilot/skills/
+.cursor/skills/
+.deepseek/skills/
+.gemini/skills/
+.kiro/skills/
+.opencode/skills/
+.skills-install/
+# <<< skillsGV install <<<
+
+__pycache__/
+*.py[cod]
+.venv/
+
